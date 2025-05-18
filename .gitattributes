@@ -2,3 +2,4 @@ MapleMono filter=lfs diff=lfs merge=lfs -text
 MiSans filter=lfs diff=lfs merge=lfs -text
 SarasaGothicSC filter=lfs diff=lfs merge=lfs -text
 JetBrainsMapleMono filter=lfs diff=lfs merge=lfs -text
+MiSansL3 filter=lfs diff=lfs merge=lfs -text
